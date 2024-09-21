@@ -13,7 +13,8 @@
 ### 1. WindowsFormsAppSQL (Granja)
 - **Descripción:** Es para la administración de una granja de gallinas, está conectada a una base de datos MySQL llamada: tienda
 - **Tecnologías:** C#, MySQL
-- **Demo:** [Ver Demo](./WindowsFormsAppSQL)
+- **Programa:** [Ver Programa](./WindowsFormsAppSQL)
+- **Modelo SQL:** [MySQL](./modeltienda.mwb)
   
 
 <img src="https://github.com/user-attachments/assets/05ac456e-89c8-4e33-aa93-0fc176eeb1cb" alt="image1" width="300"/>
