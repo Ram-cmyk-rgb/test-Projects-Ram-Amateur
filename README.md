@@ -11,9 +11,12 @@
 ## Proyectos
 
 ### 1. WindowsFormsAppSQL (Granja)
-- **Descripción:** Es para la administración de una granja de gallinas
+- **Descripción:** Es para la administración de una granja de gallinas, está conectada a una base de datos MySQL llamada: tienda
 - **Tecnologías:** C#, MySQL
-- **Demo:** [Ver Demo](enlace-a-tu-demo) .
+- **Demo:** [Ver Demo](./WindowsFormsAppSQL)
+![image](https://github.com/user-attachments/assets/05ac456e-89c8-4e33-aa93-0fc176eeb1cb)
+![image](https://github.com/user-attachments/assets/5216ab25-f29c-45b9-8676-a7b347e775b4)
+![image](https://github.com/user-attachments/assets/4f2fb639-98ba-45e3-9cbb-352babe6f52f)
 
 
 ### 2. Espectros Masas
@@ -27,5 +30,5 @@
 - Matlab
 
 ## Contacto
--solram_2013@hotmail.com
--jabarcadelao@gmail.com
+-**solram_2013@hotmail.com**
+-**jabarcadelao@gmail.com**
