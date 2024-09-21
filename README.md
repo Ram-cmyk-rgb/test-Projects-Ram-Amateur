@@ -6,8 +6,6 @@
 ## Tabla de Contenidos
 - [Proyectos](#proyectos)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Cómo Ejecutar los Proyectos](#cómo-ejecutar-los-proyectos)
-- [Contribuciones](#contribuciones)
 - [Contacto](#contacto)
 
 ## Proyectos
@@ -20,7 +18,7 @@
 
 ### 2. Espectros Masas
 - **Descripción:** Breve descripción del proyecto y su propósito.
-- **Tecnologías:** Python, Flask
+- **Tecnologías:** Matlab
 - **Demo:** [Ver Demo](enlace-a-tu-demo)
 
 ## Tecnologías Utilizadas
@@ -28,3 +26,6 @@
 - MySQL
 - Matlab
 
+## Contacto
+-solram_2013@hotmail.com
+-jabarcadelao@gmail.com
