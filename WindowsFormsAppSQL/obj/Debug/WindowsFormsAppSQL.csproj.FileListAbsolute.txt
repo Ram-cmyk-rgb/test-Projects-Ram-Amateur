@@ -1,0 +1,44 @@
+C:\Users\daira\source\repos\WindowsFormsAppSQL\bin\Debug\WindowsFormsAppSQL.exe.config
+C:\Users\daira\source\repos\WindowsFormsAppSQL\bin\Debug\WindowsFormsAppSQL.exe
+C:\Users\daira\source\repos\WindowsFormsAppSQL\bin\Debug\WindowsFormsAppSQL.pdb
+C:\Users\daira\source\repos\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.csproj.AssemblyReference.cache
+C:\Users\daira\source\repos\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.Properties.Resources.resources
+C:\Users\daira\source\repos\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.csproj.GenerateResource.cache
+C:\Users\daira\source\repos\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.csproj.CoreCompileInputs.cache
+C:\Users\daira\source\repos\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.exe
+C:\Users\daira\source\repos\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.pdb
+C:\Users\daira\source\repos\WindowsFormsAppSQL\bin\Debug\MySql.Data.dll
+C:\Users\daira\source\repos\WindowsFormsAppSQL\obj\Debug\WindowsF.6AA82268.Up2Date
+C:\Users\daira\source\repos\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.FormLogIn.resources
+C:\Users\daira\source\repos\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.Ventas.resources
+C:\Users\daira\source\repos\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.V_Productos.resources
+C:\Users\LENOVO\Downloads\Proyectos C#\WindowsFormsAppSQL\bin\Debug\WindowsFormsAppSQL.exe.config
+C:\Users\LENOVO\Downloads\Proyectos C#\WindowsFormsAppSQL\bin\Debug\WindowsFormsAppSQL.exe
+C:\Users\LENOVO\Downloads\Proyectos C#\WindowsFormsAppSQL\bin\Debug\WindowsFormsAppSQL.pdb
+C:\Users\LENOVO\Downloads\Proyectos C#\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Proyectos C#\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.FormLogIn.resources
+C:\Users\LENOVO\Downloads\Proyectos C#\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\Proyectos C#\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.Ventas.resources
+C:\Users\LENOVO\Downloads\Proyectos C#\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.V_Productos.resources
+C:\Users\LENOVO\Downloads\Proyectos C#\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\Proyectos C#\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Proyectos C#\WindowsFormsAppSQL\obj\Debug\WindowsF.6AA82268.Up2Date
+C:\Users\LENOVO\Downloads\Proyectos C#\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.exe
+C:\Users\LENOVO\Downloads\Proyectos C#\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.pdb
+C:\Users\LENOVO\Downloads\Proyectos C#\WindowsFormsAppSQL\bin\Debug\System.Memory.dll
+C:\Users\LENOVO\Downloads\Proyectos C#\WindowsFormsAppSQL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LENOVO\Downloads\Proyectos C#\WindowsFormsAppSQL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LENOVO\Downloads\Proyectos C#\WindowsFormsAppSQL\bin\Debug\System.Buffers.dll
+C:\Users\LENOVO\Downloads\Proyectos C#\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.RH.resources
+C:\Users\LENOVO\Downloads\Proyectos C#\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.V_darDeBajaEmpleado.resources
+C:\Users\LENOVO\Downloads\Proyectos C#\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.V_pagoDeSueldos.resources
+C:\Users\LENOVO\Downloads\Proyectos C#\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.V_registrarEmpleado.resources
+C:\Users\LENOVO\Downloads\Proyectos C#\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.V_vender.resources
+C:\Users\LENOVO\Downloads\Proyectos C#\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.Compras.resources
+C:\Users\LENOVO\Downloads\Proyectos C#\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.Granja.resources
+C:\Users\LENOVO\Downloads\Proyectos C#\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.V_Compras.resources
+C:\Users\LENOVO\Downloads\Proyectos C#\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.V_Requisiciones.resources
+C:\Users\LENOVO\Downloads\Proyectos C#\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.V_cajas.resources
+C:\Users\LENOVO\Downloads\Proyectos C#\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.V_gallina.resources
+C:\Users\LENOVO\Downloads\Proyectos C#\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.V_produccion.resources
+C:\Users\LENOVO\Downloads\Proyectos C#\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.Direccion_general.resources
