@@ -28,9 +28,10 @@
 - **Tecnologías:** Matlab, Excel
 - **Demo:** [Ver programa](./espectromasas)
 
+<img src="https://github.com/user-attachments/assets/33a91c75-1db1-48fd-ac29-16a1f268f4a3" alt="image1" width="300" height="300"/>
+<img src="https://github.com/user-attachments/assets/24897658-a029-419c-a6b2-abbd08c5ff67" alt="image2" width="300" height="300"/>
 
-<img src="https://github.com/user-attachments/assets/33a91c75-1db1-48fd-ac29-16a1f268f4a3" alt="image1" width="300"/>
-<img src="https://github.com/user-attachments/assets/24897658-a029-419c-a6b2-abbd08c5ff67" alt="image2" width="300"/>
+
 
 ### 3. Live Scripts
 - **Descripción:** Los Live Scripts en MATLAB son un tipo de archivo que en el que se puede ejecutar secciones de código de forma interactiva, lo que facilita la prueba y la depuración de scripts.
@@ -42,8 +43,8 @@
 
 
 
-<img src="https://github.com/user-attachments/assets/2e15a8d2-316c-4890-af28-492c59c1a759" alt="image3" width="300"/>
-<img src="https://github.com/user-attachments/assets/bfca4ac8-01d1-4a81-bd3b-c8cce28f69b1" alt="image4" width="300"/>
+<img src="https://github.com/user-attachments/assets/2e15a8d2-316c-4890-af28-492c59c1a759" alt="image3" width="300" height="300"/>
+<img src="https://github.com/user-attachments/assets/bfca4ac8-01d1-4a81-bd3b-c8cce28f69b1" alt="image4" width="300" height="300"/>
 
 ## Tecnologías Utilizadas
 - C#
