@@ -41,8 +41,9 @@
 
 
 
-<img src="https://github.com/user-attachments/assets/d62a6993-5e7f-49e6-8f2d-30b9ce75f138" alt="image3" width="300"/>
-<img src="https://github.com/user-attachments/assets/bfca4ac8-01d1-4a81-bd3b-c8cce28f69b1" alt="image3" width="300"/>
+
+<img src="https://github.com/user-attachments/assets/2e15a8d2-316c-4890-af28-492c59c1a759" alt="image3" width="300"/>
+<img src="https://github.com/user-attachments/assets/bfca4ac8-01d1-4a81-bd3b-c8cce28f69b1" alt="image4" width="300"/>
 
 ## Tecnologías Utilizadas
 - C#
